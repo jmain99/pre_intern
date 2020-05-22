@@ -1,0 +1,129 @@
+.header
+{
+    position: absolute;
+    background-color: darkblue;
+    color: yellow;
+    width:100%;
+}
+.fontstyle
+{
+    font-family: sans-serif;
+}
+.logo1
+{
+    position: absolute;
+    width: 15%;
+    height:100%;
+}
+#logo1
+{
+    width:120px;
+    position: absolute;
+    left:70px;
+    top:80px;
+}
+.text1
+{   
+    float: left;
+    padding-top: 10px;
+    text-align: center;
+    width:100%;
+    height: auto;
+    font-weight: bold;
+}
+.logo2
+{ 
+    width: 100%;
+    position: absolute;
+    height: auto;
+ }
+ #logo2
+ {  
+     position: absolute;
+    left:75%;
+    width: 280px;
+    top:80px;
+ }
+ .menu
+ {
+    word-break: normal;
+    position: absolute;
+    width: 100%;
+    height: 8%;
+    background-color: rgb(238, 227, 227);
+    text-align: center;
+    top:30%;
+ }
+.slide
+{
+    position:absolute;
+    width:100%;
+    top: 38%;
+
+
+}
+.text
+{
+    color:darkblue;
+    position: absolute;
+    top:850px;
+    width: 100%;
+    height: auto;
+}
+ .leftlist
+ {
+     padding-top :0px;
+    background-color: rgb(41, 155, 207); 
+    position: absolute;
+    top:1100px;
+    width:45%;
+    
+    
+ }
+ .rightlist
+ {
+    position: absolute;
+    top:1100px;
+    width: 45%;
+    left: 50%;
+    
+ }
+ .bg 
+ {
+     background-color: whitesmoke;
+ }
+.contact
+{
+    position: relative;
+    background-color: skyblue;
+    left:30%;
+    width: 65%;
+}
+.right 
+{
+    position: absolute;
+    left:70%;
+}
+
+.foot
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: yellow;
+    text-align: center;
+}
+.pre
+{
+    font-size: 16;
+    font-family: sans-serif;
+}
+.ds 
+{
+    position: absolute;
+    width: 40%;
+    text-align: center;
+    
+}
