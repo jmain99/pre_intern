@@ -77,8 +77,8 @@
     position: absolute;
     top:1100px;
     width:45%;
-    
-    
+    border-radius: 10px;
+    box-shadow: rgb(238, 227, 227);
  }
  .rightlist
  {
@@ -91,6 +91,7 @@
  .bg 
  {
      background-color: whitesmoke;
+     border-radius: 10px;
  }
 .contact
 {
@@ -107,9 +108,9 @@
 
 .foot
 {
-    position: fixed;
-    left: 0;
-    bottom: 0;
+    position: absolute;
+    
+    top:2800px;
     width: 100%;
     background-color: darkblue;
     color: yellow;
@@ -125,5 +126,5 @@
     position: absolute;
     width: 40%;
     text-align: center;
-    
+    border-radius: 10px;
 }
